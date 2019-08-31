@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings Description=" - Key Presser for Origin Online. All versions supported. Opening your eyes since a year Copyright © JellyBitz 2019">
+  <AttackList />
+  <PartyList>
+    <Player Nickname="You" />
+    <Player Nickname="Teammate #1" />
+    <Player Nickname="Teammate #2" />
+    <Player Nickname="Teammate #3" />
+    <Player Nickname="Teammate #4" />
+    <Player Nickname="Teammate #5" />
+    <Player Nickname="Teammate #6" />
+    <Player Nickname="Teammate #7" />
+  </PartyList>
+  <ClientTitle>SRO_Client</ClientTitle>
+  <BackToClient>3</BackToClient>
+  <BetweenPartyBuffs>0</BetweenPartyBuffs>
+  <CastOwnBuffsLast>True</CastOwnBuffsLast>
+</Settings>

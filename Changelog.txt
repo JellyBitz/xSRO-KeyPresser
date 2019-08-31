@@ -1,0 +1,62 @@
+﻿xSRO KeyPresser - By JellyBitz
+Auto key presser for Silkroad Online. Making easier your Gamer life!
+
+v1.4.0
+- Fixed saving settings
+- Enabled default windows visualization
+- Changed command from advertisement to "-nods"
+
+v1.3.0
+- Rebuild specially for "Origin" of Lies
+- NEW command line "-title yourtitle" to change the window title
+
+v1.2.1
+- Casttime now can be 0 (zero)
+- Bugfix settings path
+
+v1.2
+- Changed xSRO KeyPresser Icon
+- Changed the keyscript name parameters for better loading and understanding
+	Old keyscripts won't work now! try to change yourself looking at examples (AutoItCode is more flexible now)
+- Changed some options in the key list
+	Key Script > Reload : Replace all the key list with the keyscript selected
+	Key Script > Load(New) : Add to the end of key list the keyscript selected
+	Edit > Load (New) : Load the data of the key to edit 
+	Edit > Save (New) : Edit the data of the selected key
+- Added a few Custom Keys to the GUI
+	You can add any key(s) supported by AutoIt when editing the keyscript (look Example folder)
+- Added About KeyPresser option to the icon bar (right click)
+- Added notification to icon bar when KeyPresser starts
+- Added support to hide/kill/reduce memory/etc. to any process (sro_client by default)
+- Added hotkey "Ctrl+F" to paste text into silkroad process (sro_client by default)
+- Added hotkey F6 to stop KeyPresser
+- Fixed hotkey F5 to start KeyPresser (pressing F5 twice won't stop the KeyPresser)
+- Fixed layouts and fonts
+
+NOTE: Remember you can drag keys inside the key lists to order as you wish!
+We will be making some kind of promotion to Warriors Way Online.
+So Warriors Way website will be opening every time you execute the KeyPresser. Give it a try. ;)
+
+v1.1
+- Changed xSRO KeyPresser icon
+- Added Hide KeyPresser option to the icon bar (right click)
+- Added notification to icon bar when KeyPresser stop
+- Added timing to get back to the silkroad window
+- Added AutoBuffer option to use your own buff of last
+- Included AutoIt x64 DLL
+- Fixed random attacking mode
+- Fixed Reduce Memory button
+- Fixed & Improved buffing timing
+
+v1.0 
+Features:
+- Add keys [F1-4] with his combination [0-9], each key having individual cooldown and waiting time with a little description
+- Save/load all keys created (keyscript)
+- Save all your settings to use next time
+- AutoAttacking mode can be random or in order 
+- AutoBuffing mode can work individually in every member of your party by using CTRL+Number capacity
+- Hotkey F5 to start/stop KeyPresser
+- Hide/Reduce Memory/Kill silkroad process & much more!
+
+NOTE : If you know about AutoIt keys, you could made a Custom Key into the keyscript adjusting to your necesities!
+More info about which keys you can use here : https://www.autoitscript.com/autoit3/docs/appendix/SendKeys.htm

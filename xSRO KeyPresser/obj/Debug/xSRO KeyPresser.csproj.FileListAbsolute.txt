@@ -1,0 +1,20 @@
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\bin\Debug\chrome.exe
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\obj\Debug\xSRO KeyPresser.csprojResolveAssemblyReference.cache
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\obj\Debug\xSRO_KeyPresser.Window.resources
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\obj\Debug\xSRO KeyPresser.csproj.GenerateResource.Cache
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\bin\Debug\svchost.exe.config
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\obj\Debug\svchost.Properties.Resources.resources
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\bin\Debug\svchost.exe
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\bin\Debug\svchost.pdb
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\obj\Debug\svchost.exe
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\Origin\Origin\obj\Debug\svchost.pdb
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\xSRO KeyPresser\xSRO KeyPresser\obj\Debug\xSRO_KeyPresser.Window.resources
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\xSRO KeyPresser\xSRO KeyPresser\obj\Debug\xSRO KeyPresser.csproj.GenerateResource.Cache
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\xSRO KeyPresser\xSRO KeyPresser\bin\Debug\xSROKeyPresser.exe.config
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\xSRO KeyPresser\xSRO KeyPresser\bin\Debug\xSROKeyPresser.exe
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\xSRO KeyPresser\xSRO KeyPresser\bin\Debug\xSROKeyPresser.pdb
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\xSRO KeyPresser\xSRO KeyPresser\obj\Debug\xSROKeyPresser.Properties.Resources.resources
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\xSRO KeyPresser\xSRO KeyPresser\obj\Debug\xSROKeyPresser.exe
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\xSRO KeyPresser\xSRO KeyPresser\obj\Debug\xSROKeyPresser.pdb
+C:\Users\Luisana\Documents\Visual Studio 2015\Projects\xSRO KeyPresser\xSRO KeyPresser\obj\Debug\xSRO KeyPresser.csprojResolveAssemblyReference.cache

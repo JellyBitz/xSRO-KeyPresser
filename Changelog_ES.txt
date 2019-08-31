@@ -1,0 +1,62 @@
+xSRO KeyPresser - By JellyBitz
+Auto presionador de teclas para Silkroad Online, Haciendo más facil tu vida de Gamer!
+
+v1.4.0
+- Arreglado al guardar configuración
+- Habilitado el tema por defecto de Windows
+- Cambiado linea de comando de anuncios a "--noads"
+
+v1.3.0
+- Versió reconstruid para el corrupto "Origin"
+- NEW linea de comando "-title tutítulo" para cambiar título de la ventana
+
+v1.2.1
+- Casttime ahora puede ser 0 (cero)
+- Arreglado directorio de configuración
+
+v1.2
+- Cambiado el ícono del xSRO KeyPresser
+- Cambiado el nombre de los parámetros para una mejor carga y entendimiento
+	Viejos keyscripts no funcionarán ahora! intenta cambiarlos tu mismo mirando en los ejemplos (AutoIt es más flexible ahora)
+- Cambiadas algunas opciones en la lista de teclas
+	Key Script > Reload : Reemplaza la list de teclas con el keyscript seleccionado
+	Key Script > Load(New) : Agrega al final de la lista de teclas el keyscript seleccionado
+	Edit > Load (New) : Carga la información de la tecla para editar
+	Edit > Save (New) : Edita la información de la tecla seleccionada
+- Agregado unas cuantas teclas personalizadas a la Interfaz
+	Tú puedes agregar cualquier tecla(s) soportada(s) por AutoIt al editar el keyscript (Mirar carpeta Example)
+- Agregada opción "About" KeyPresser a la barra de íconos (clic derecho)
+- Agregada notificación a la barra de íconos cuando se inicia el KeyPresser
+- Agregado soporte para hide/kill/reduce memory/etc. a cualquier proceso (sro_client por defecto)
+- Agregado tecla rápida "Ctrl+F" para pegar texto en el proceso de silkroad (sro_client por defecto)
+- Agregado tecla rápida F6 para detener el KeyPresser 
+- Arreglada tecla rápida F5 para inicir el KeyPresser (presionar F5 dos veces no detendrá el KeyPresser)
+- Arreglado el orden de capas y fuentes
+
+NOTA: Recuerda que puede arrastrar teclas dentro de la lista de teclas para ordenarlas como desees!
+Estaremos de alguna forma promocionando Warriors Way Online.
+Entonces abrirá el sitio web cada vez que ejecutes el KeyPresser. Dale una oportunidad! ;)
+
+v1.1
+- Cambiado el ícono del xSRO KeyPresser
+- Agregada opción "Hide" KeyPresser a la barra de íconos (clic derecho)
+- Agregada notificación a la barra de íconos cuando se detiene el KeyPresser
+- Agregado tiempo para regresar a la ventana del silkroad
+- Agregada opción al AutoBuffer para usar buffs propios de último
+- Agregada AutoIt x64 DLL
+- Arreglado el modo de ataque aleatorio
+- Arreglado el botón Reduce Memory
+- Arreglado y mejorado los tiempos de buffs
+
+v1.0 
+Novedades:
+- Agrega teclas [F1-4] con la combinación [0-9], teniendo cada tecla un enfriamiento y tiempo de espera con una pequeña descripción
+- Guardar/Cargar todas las teclas creadas (keyscript)
+- Guardar todas las configuraciones para usar la próxima vez
+- Modo AutoAttacking puede ser aleatorio o en orden 
+- Modo AutoBuffing puede funcionar individualmente en cada miembro de tu grupo por su capacidad usando CTRL+Numero
+- tecla rápida F5 para iniciar/detener el KeyPresser
+- Hide/Reduce Memory/Kill el proceso de silkroad y mucho más!
+
+NOTA: si tu conoces acerca de teclas AutoIt, tú podrias hacer una tecla personalizada en un keyscript ajustandote a tus necesidades!
+Más info acerca de qué teclas puedes usar aquí : https://www.autoitscript.com/autoit3/docs/appendix/SendKeys.htm
